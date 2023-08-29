@@ -1,0 +1,8 @@
+D:\_SOFTDev\EML2PST\EML2PST\bin\Debug\EML2PST.exe.config
+D:\_SOFTDev\EML2PST\EML2PST\bin\Debug\EML2PST.exe
+D:\_SOFTDev\EML2PST\EML2PST\bin\Debug\EML2PST.pdb
+D:\_SOFTDev\EML2PST\EML2PST\obj\Debug\EML2PST.csprojAssemblyReference.cache
+D:\_SOFTDev\EML2PST\EML2PST\obj\Debug\EML2PST.csproj.CoreCompileInputs.cache
+D:\_SOFTDev\EML2PST\EML2PST\obj\Debug\EML2PST.csproj.CopyComplete
+D:\_SOFTDev\EML2PST\EML2PST\obj\Debug\EML2PST.exe
+D:\_SOFTDev\EML2PST\EML2PST\obj\Debug\EML2PST.pdb

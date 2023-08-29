@@ -1,0 +1,8 @@
+            String IMAPServer = "imap.zone.eu"; // Set Your email IMAP server
+            int IMAPPort = 993;                 // Set IMAP port
+            String MailAddress = "test@link.ee"; // Set email address 
+            String MailName = "Test";           // Set email title
+            String MailPassword = "Katetamiseks"; // Set email password
+            String SMTPServer = "smtp.zone.eu"; // Set outgoing server
+            int SMTPPort = 465;                 // Set outgoing port
+            String InitialFolder = "INBOX";     // Set initial folder to store emails to
